@@ -1,0 +1,26 @@
+{
+  "name": "nabafzar",
+  "version": "0.0.1",
+  "description": "LMSjs",
+  "main": "server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "CMS",
+    "LMS",
+    "Node.js",
+    "Expressjs",
+    "Mongodb"
+  ],
+  "author": "s.a.mahmoudzadeh",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
